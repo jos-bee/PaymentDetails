@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Migrations",
+    "\\WebAPI\\Models",
+    "\\WebAPI\\Properties"
+  ],
+  "SelectedNode": "\\WebAPI\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}
